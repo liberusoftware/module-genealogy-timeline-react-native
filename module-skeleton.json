@@ -1,0 +1,15 @@
+{
+  "repository": "module-genealogy-timeline-react-native",
+  "capabilityKey": "liberusoftware/module-genealogy-timeline",
+  "presentation": "mobile-react",
+  "package": "@liberusoftware/module-genealogy-timeline-react-native",
+  "foundation": "module-boilerplate-react-native",
+  "foundationCommit": "b63bc1b11fe769e2e547a3f1fced6116556fe9e1",
+  "canonicalPlan": "projects/genealogy/nextjs/timeline.md",
+  "presentationPlan": "projects/genealogy/react-native/timeline.md",
+  "identityReviewRequired": false,
+  "status": "skeleton",
+  "documentedConsumerScopes": [
+    "genealogy"
+  ]
+}
